@@ -1,0 +1,25 @@
+module.exports={
+  goods:[
+    {
+      id:"5",
+      img:"img/sofa1.jpeg",
+      name:"沙发1",
+      price:"￥880"
+    },{
+      id:"6",
+      img:"img/sofa2.jpeg",
+      name:"沙发2",
+      price:"￥1200"
+    },{
+      id:"7",
+      img:"img/sofa3.jpeg",
+      name:"沙发3",
+      price:"￥1000"
+    },{
+      id:"8",
+      img:"img/sofa4.jpeg",
+      name:"沙发4",
+      price:"￥670"
+    }
+  ]
+}
